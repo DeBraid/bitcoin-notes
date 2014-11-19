@@ -18,8 +18,7 @@ The network is incentives to work hard to earn BTC (and thus invest CPU power), 
 
 #### 51% Attack 
 
->As long as a majority of CPU power is controlled by nodes that are not cooperating  
->to attack the network, they'll generate the longest chain and outpace attackers.
+>As long as a majority of CPU power is controlled by nodes that are not cooperating to attack the network, they'll generate the longest chain and outpace attackers.
 
 First, this is the major assumption in the abstract!  So a vital point for bitcoin.  Second, what an awful sentence!  The downside of secrecy is that the editing process is absent.  How about: 
 
