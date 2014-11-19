@@ -220,8 +220,3 @@ These inputs are tagged with an asset type, e.g. the genesis hash of its origina
 5. Blockchain reorganisations should be handled cleanly, even during transfers; any disruption should be localised to the sidechain on which it occurs. In general, sidechains should ideally be fully independent, with users providing any necessary data from other chains. Validators of a sidechain should only be required to track another chain if that is an explicit consensus rule of the sidechain itself.
 
 6. Users should not be required to track sidechains that they are not actively using.
-
-
-
-
-
