@@ -102,6 +102,40 @@ The longest chain is considered to the be the correct one.  Nodes work to extend
 
 In case of a tie, two blocks are held, the winner is whichever chain finished the next block first, thus creating a new longest chain. 
 
+## Incentive 
+
+The first transaction in a block is special, this is by design, since a new coin is owned by the creator of the block.  This is done for two reasons: 
+
+1.  no central authority to *issue* coins, rather they get distributed on the basis of allocation of resources: CPU time and electricity.
+2.  creates direct incentive for nodes to support the network (mining = earning bitcoin)
+
+"If the output value of a transaction is less than its input value, the difference is a transaction fee that is added to the incentive value of the block containing the transaction."
+
+if [ Output ( bitcoin value ) ] < [ input ( CPU + electricity ) ] , then transaction fees compensate. 
+
+output - input = fees (*check this*)
+
+Transaction fees can be implemented to create incentive to support the network but generating a spread between market value and capex for coin production.
+
+These incentives are explicitly designed encourage honest behaviour amongst nodes.
+
+A greedy attacker -- assuming the CPU power to overtake the network -- would have to choose between stealing back his payments, or using it generate new coins.
+
+"He ought to find it more profitable to play by the rules" since such rules make it obvious to choose new coins, rather than directly undermine the value that which is attempting to be stolen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
