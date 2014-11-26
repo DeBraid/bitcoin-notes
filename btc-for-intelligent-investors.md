@@ -123,6 +123,67 @@ A greedy attacker -- assuming the CPU power to overtake the network -- would hav
 
 "He ought to find it more profitable to play by the rules" since such rules make it obvious to choose new coins, rather than directly undermine the value that which is attempting to be stolen.
 
+It's like the man who runs a wildly-popular local brewery.  Everyone around agrees the beer is delicious and he has a line of paying customers 24/7.  He could keep all his delicious beer for himself, but in the process he would devolve into a drunkard, directly harming the quality of the beer, and hurting the overall community surrounding his product!
+
+Much like BTC protocol that kind of mutually assured destruction is by design.  Like the drunken brewer, the attacking miner ought to find it in his interest to play by the rules.
+
+This is another example of the genius of Satoshi, and bitcoin.  There are several clever, ingenious and outright brilliant logical, mathematical and scientific elements to bitcoin, not a single feature that makes it suitable for digital money.
+
+## Reclaiming Disk Space
+
+"Once the latest transaction in a coin is buried under enough blocks, the spent transactions before it can be discarded to save disk space."
+
+Anticipating that the size of the chain would outgrow the CPU power of lesser machines, Satoshi contrived a method for storing old transactions ("hashed in a Merkle Tree" where roots are kept and branches discarded). 
+
+(Image)
+A block contains the following: 
+
+1.  block header (which contains previous Hash, nonce, and a root hash)
+2.  transaction records/hashes (when combined for the root hash w/in block header)
+
+"A block header with no transactions would be about 80 bytes. If we suppose blocks are generated every 10 minutes, 80 bytes * 6 * 24 * 365 = 4.2MB per year. With computer systems typically selling with 2GB of RAM as of 2008, and Moore's Law predicting current growth of 1.2GB per year, storage should not be a problem even if the block headers must be kept in memory.
+
+## Simplified Payment Verification 
+
+First mention of payments!  Satoshi diligently laid out the architecture of bitcoin prior to getting to the juiciest part, the mark of a true scientist! 
+
+Payments can be verified by users simple by querying the network to obtain the longest proof-of-work chain.  A user needn't run a full network node to verify payments,  since the network has accepted this chain. 
+
+The downside of this approach is that a user lacking full transaction record and cannot recreate it independently.  This creates a vulnerability that is avoided by alerts being broadcast whenever suspcious activity (invalid or fraudlent block), is found in place of a previous hashed/pruned block.
+
+Once alerted, the user would then be prompted to download the FULL transaction record and can "confirm the inconsistency".  
+
+"Businesses that receive frequent payments will probably still want to run their own nodes for more independent security and quicker verification."
+
+Interesting to note that trustless money may require some extra work from those who are most heavily invested in the system.  This alignment of incentive structures is a master stroke.  In theory systemic risk that global financial markets are fraught with can be mitigated by the underlying features of bitcoin.   
+
+## Combining and Splitting Value
+
+Transactions contain multiple inputs and outputs.  There are at most two outputs: one for the payment, another returning the change.  Inputs can take various forms, normally a large sum is presented as a single input or multiple inputs of smaller amounts are combined.
+
+## Privacy 
+
+Financial institutions are responsible for privacy in modern banking.  We have seen countless attacks result in the publication of sensitive personal information, sufficient to assume that (my words, not Satoshi): EVERYTHING DITIGAL IS PUBLIC!
+
+Motivated attackers can obtain 99.999% of information stored as bits and bytes regardless of the efforts put in place to stop it.  Computer security is like building the perfect Ebola suit to wear for your kissing competition.  If you keep everybody out, you can't participate, but as soon as you open up a crack, you've already lost the game!
+
+If you think bitcoin is paradoxical, we agree.  How can a network that must broadcast every transaction possibly be anonymous? Despite this feature, bitcoin does provide improved privacy vs. trusted third parties by using private keys.
+
+"Privacy can still be maintained by breaking the flow of information in another place: by keeping public keys anonymous.  The public can see that someone is sending an amount to someone else, but without information linking the transaction to anyone."
+
+Like a stock exchange, the time and size of a transaction is widely known, via the tape, but parties to the transaction are kept secret. 
+
+Privacy Models ( where | is private, -> is shared )
+
+Traditional: ID -> Transactions -> Trusted 3rd party -> Counterparty | Public
+Bitcoin: ID | Transactions -> Public
+
+Recommended that a new key pair should be used for each transaction.  It is possible to link transactions to a common owner with multi-input transactions.  If the owner of the key is revealed, it can be deduced that they own all other coins linking to a given transaction. 
+
+## Calculations 
+
+
+
 
 
 
