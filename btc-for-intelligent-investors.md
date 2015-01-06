@@ -216,8 +216,8 @@ If more evil than good, the head start doesn't matter, bad news.  If more good t
 > falls further behind.
 
 The only code in the entire paper: 
-
 Converting to C code...
+```javascript
    #include <math.h>
    double AttackerSuccessProbability(double q, int z)
    {
@@ -231,8 +231,10 @@ Converting to C code...
            for (i = 1; i <= k; i++)
                poisson *= lambda / i;
            sum -= poisson * (1 - pow(q / p, z - k));
-￼￼￼}
-return sum; }
+    ￼￼￼}
+    return sum; 
+  }   
+```
 
 
 #### Time is key: z in qz 
