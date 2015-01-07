@@ -1,5 +1,6 @@
 
-# Purpose of third parties in Bitcoin 
+## Purpose of third parties in Bitcoin 
+
 
 Paradox of BTC is that while peer-to-peer network maintains the ledger, many tools build to use the blockchain are third parties.  Whats up with that?
 -----------------
