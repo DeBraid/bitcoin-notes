@@ -3,7 +3,7 @@
 
 
 Paradox of BTC is that while peer-to-peer network maintains the ledger, many tools build to use the blockchain are third parties.  Whats up with that?
------------------
+
 ## Don't the Bitcoin exchanges control the market and price? 
 Buyers and sellers of btc/fiat set the price via their individual desire to buy/sell. 
 
