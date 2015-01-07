@@ -15,9 +15,7 @@ EX offer value primarily to features/limitations in the BTC protocol (naming the
 
 The *counter* really simple: if generating your private keys offline and printing for cold storage is 'too much work' to secure you money, then you should probably stick with banks and continue to pay whatever fees they see fit. 
 
-> Bitcoin is not for everyone and it's capacity to go  
-> mainstream (adoption rates) is limited by  
-> perceived quality of ones existing financial services.  
+> Bitcoin is not for everyone and it's capacity to go mainstream (adoption rates) is limited by perceived quality of ones existing financial services.  
 
 ## Without them how would Bitcoin be of any value other than people to hold money privately offline. 
 
