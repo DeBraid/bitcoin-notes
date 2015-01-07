@@ -4,10 +4,11 @@
 Paradox of BTC is that while peer-to-peer network maintains the ledger, many tools build to use the blockchain are third parties.  Whats up with that?
 -----------------
 ## Don't the Bitcoin exchanges control the market and price? 
--- Buyers and sellers of btc/fiat set the price via their individual desire to buy/sell. 
+Buyers and sellers of btc/fiat set the price via their individual desire to buy/sell. 
 
 ## What Do Exchanges Do
 Exchanges (EX) simply provide a forum for connecting buyers and sellers, a convenience function.  EX value prop is convenience-based since they exist to replace/augment that secure process of storing private keys offline, which may not be easy/simple/convenient.  
+
 
 EX offer value primarily to features/limitations in the BTC protocol (naming the time-scale requirement to get assurance against double-spends (aka it takes at least 10mins, and more comfortably 50mins to get confirmation that transaction is OK/safe).  
 
@@ -24,8 +25,14 @@ Ex. the stock market is public so if money is stolen from it, when that happens 
 
 Harm done to/or by an individual firm / financial institution is usually isolated.  The currency (or financial instrument) is less a factor.  People didn't stop trading stocks because Bernie Madoff, nor did they get rid of leveraged loans and exotic credit products following the Great Financial Crisis. Blame typically lies on the shoulders of individuals within a firm, and their incompetence or lack of oversight from fellow employees/bosses. 
 
-The breakthrough feature -- that confers much of the value of bitcoin -- is that its a protocol maintaining globally distributed ledger.  This 'ledger' or the *blockchain*, acts as source of truth, such that the REQUIREMENT for trusted third parties is absent.  Moreover, the integrity of the blockchain is not in question with most recent instance of hot wallet hack (bitstamp $5 million or 19k bitcoin; Jan 2015).
+The breakthrough feature -- that confers much of the value of bitcoin -- is that its a protocol maintaining globally distributed ledger.  This 'ledger' or the *blockchain*, acts as source of truth, such that the REQUIREMENT for trusted third parties is absent.  This does not preclude service providers from acting as third party (wallets, exchanges, etc) offering / implementing apps and layers on top of the blockchain.  They take on the risks associated with money-service businesses and various other financial/banking -type applications. 
 
-This does not preclude service providers from acting as third party (wallets, exchanges, etc) offering / implementing apps and layers on top of the blockchain.
+## Security, Risk, Volatility 
+> The integrity of the blockchain is not in question with most recent instance of hot wallet hack (bitstamp $5 million or 19k bitcoin; Jan 2015), nor with other prominent previous hacks, frauds (mtGox) and illegal activity (Silk Road). 
 
+Now the price volatility associated with hacks is another story.  Fear and greed will play major part in the price of any asset class.  Bitcoin is but 6 years old and is thus very young relative to gold, treasury bonds and other common financial instruments that have traded for several hundred (if not thousand) years.
+
+New = volatile.  Little or no financial 
+
+## Fee for service 
 Like with stocks there is a trade off between effort and cost.  Stock trading with an old-school broker/advisor costs 2-5%, vs. roboadvisors or brokerage accounts (0.5-1%).  Costs incurred are a function of personal labour in every financial market, it's just hard to spot.
