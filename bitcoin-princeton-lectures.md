@@ -89,20 +89,17 @@ Payment requests processed via consensus protocol called proof of work (POW). No
 
 Capped money supply (hopefully) means long-run price-level stability.  Free ourselves of central banks (alas, not governments).  Ability to transfer value (bitcoin) between any two points in the world (connected to the Internet) at trivial cost.  Free ourselves of all banks (except from their lending arms).
 ￼
-## What’s the innovation?
+## What’s the bitcoin innovation?
 
-No: 
-Virtual currency? Open-source algorithm? No.
+### No:  
+* Virtual currency? Open-source algorithm? No.
+* Public/private key cryptography? Pseudonymous accounts? No.
+* Transparent online database? No.
+* Algorithmically determined money supply? Not really.
 
-Public/private key cryptography? Pseudonymous accounts? No.
-
-Transparent online database? No.
-
-Algorithmically determined money supply? Not really.
-
-Innovation: block chain and POW consensus protocol.
-
-Packaged together with aforementioned innovations.
+### Yes:
+* Innovation: **block chain** and **proof-of-work consensus protocol**.
+* Packaged together with aforementioned innovations.
 
 Bitcoin solved the double-spend problem of P2P digital asset
 transfer (and mon. supp.) without use of “trusted” intermediaries. 
