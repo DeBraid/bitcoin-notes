@@ -58,7 +58,7 @@ Virtual data (memories) recorded on shared and distributed ledger (communal brai
 - 19th C. banknotes redeemable for specie, backed by assets
 
 ### Now:
-Monetary objects consist of liabilities issued by central and chartered private banks: *physical (cash) and digital objects*.
+Monetary objects consist of liabilities issued by central and chartered private banks: **physical (cash) and digital objects**.
 
 Much like the old days bank liabilities legally a digital version of 19th C. banknotes.  Cash payment: P2P debit/credit of personal wallets.
 
@@ -77,9 +77,9 @@ Complaints w/ status quo:
 ￼
 ## Bitcoin is a money & payments system
 
-Digital money supply (*bitcoin*) managed by open-source computer algorithm (*Bitcoin*). [ 21M unit cap ].
+Digital money supply (**bitcoin**) managed by open-source computer algorithm (**Bitcoin**). [ 21M unit cap ].
 
-BTC exist on a publicly visible, distributed ledger: *block chain*. Blockchain = history of all transactions.
+BTC exist on a publicly visible, distributed ledger: **block chain**. Blockchain = history of all transactions.
 
 BTC “account” = public + private key pairs (crypto. secure).  Public-address transparent P.O. box + private key.  Permissionless, pseudonymous.
 
@@ -91,6 +91,7 @@ Capped money supply (hopefully) means long-run price-level stability.  Free ours
 ￼
 ## What’s the innovation?
 
+No: 
 Virtual currency? Open-source algorithm? No.
 
 Public/private key cryptography? Pseudonymous accounts? No.
