@@ -4,16 +4,16 @@ by David Andolfatto VP Research, FRB St. Louis
 
 Think of bitcoin as solving a money and payments problem.  Not credit: don't confuse bitcoins with credit systems associated with typical sovereign currencies.  It combines:
 
-## Monetary Tokens
+#### Monetary Tokens
 - record keeping device
 
-## Ledgers 
+#### Ledgers 
 - ledgers (aka accounts to keep money secure)
 
-## Payment System 
+#### Payment System 
 - finance needs a set of payment protocols to transfer value from one party to another
 
-## Monetary policy 
+#### Monetary policy 
 - description of management of the quantity
 
 Bitcoin is a revolution that is a throwback to the past.  Anthropologists noted money doesn't exist in small communities, but memes (memories of actions -- specifically contributions to the tribe -- would form abstract payment systems.  Virtual data on shared or distributed ledger (brains) and communicated through network (gossip).  Tally sticks, etc.) 
@@ -101,147 +101,63 @@ Capped money supply (hopefully) means long-run price-level stability.  Free ours
 * Innovation: **block chain** and **proof-of-work consensus protocol**.
 * Packaged together with aforementioned innovations.
 
-Bitcoin solved the double-spend problem of P2P digital asset
-transfer (and mon. supp.) without use of “trusted” intermediaries. 
-As close as one can get to unintermediated digital cash.
+Bitcoin solved the double-spend problem of P2P digital asset transfer (and monetary supply) without use of “trusted” intermediaries.  
+
+> As close as one can get to unintermediated digital cash.
 ￼
-POW: Dynamic Membership Multisig
+## POW: Dynamic Membership Multisig
 
-P2P payment requests broadcast to network are validated and added to the block chain by pseudonymous “miner nodes.”
+P2P payment requests broadcast to network are validated and added to the block chain by pseudonymous “miner nodes.”  Miners must collectively “sign off” on requests. 
 
-Miners must collectively “sign off” on requests. How?
+How? Simple voting procedure will not work: Sybil attacks (spam).
 
-Simple voting procedure will not work: Sybil attacks (spam).
-
-POW makes it artificially expensive (hardware + electricity) to validate payments—guards against Sybil attacks.
-
-Miners compete against each other to solve math problem, winner gets to add validated requests to block chain.
-
-(Winning) miners compensated in newly-issued bitcoin (and fees).
+POW makes it artificially expensive (hardware + electricity) to validate payments—guards against Sybil attacks.  Miners compete against each other to solve math problem, winner gets to add validated requests to block chain. (Winning) miners compensated in newly-issued bitcoin (and fees).
 ￼
-So, what’s the big deal?
+## So, what?
 
-A fixed supply of electronic digits that can be transferred over the Internet without traditional middlemen.
+> A fixed supply of electronic digits that can be transferred over the Internet without traditional middlemen. P2P transactions, no need to relinquish personal info to 3rd parties.
 
-P2P transactions, no need to relinquish personal info to 3rd parties.
+## Other Benefits: 
+* Can send $100M of BTC from here to Moscow in 10 min. almost zero user cost (social cost higher).
+* Bypass clunky ACH, correspondent banking system.
+* Huge deal for international remittances market.
+* Block chain has proven to be highly secure (so far, episodes of loss related to 3rd parties (Mt. Gox) not BTC.)
 
-Can send $100M of BTC from here to Moscow in 10 min. almost
-zero user cost (social cost higher).
 
-Bypass clunky ACH, correspondent banking system.
-
-Huge deal for international remittances market.
-
-Block chain has proven to be highly secure (so far).
-
-Episodes of loss related to 3rd parties (Mt. Gox) not BTC.
+### Use Case: International Payments
+Want to send $100 from my Chase NY to your account at Bank of Cyprus, Nicosia ($50 fees at each end?). Align Commerce claims to “use the blockchain” to effect same transfer at much lower cost (price). How? AC ACH debits my USD Chase account (slowest part). AC buys BTC (sells USD) on domestic BTC exchange. AC sells BTC (buys EUR) on foreign BTC exchange. AC SEPA credits your Bank of Cyprus account.
 ￼
-1. 2. 3. 4.
-
-•
-Example: International Payments
-Want to send $100 from my Chase NY to your account at Bank of Cyprus, Nicosia ($50 fees at each end?).
-Align Commerce claims to “use the blockchain” to effect same transfer at much lower cost (price). How?
-AC ACH debits my USD Chase account (slowest part). AC buys BTC (sells USD) on domestic BTC exchange. AC sells BTC (buys EUR) on foreign BTC exchange. AC SEPA credits your Bank of Cyprus account.
+“Using the blockchain” = using BTC as a "vehicle currency".
 ￼
-•
-•
-1. 2. 3. 4.
-•
-Example: International Payments
-Want to send $100 from my Chase NY to your account at Bank of Cyprus, Nicosia ($50 fees at each end?).
-Align Commerce claims to “use the blockchain” to effect same transfer at much lower cost.
-AC ACH debits my Chase account (slowest part).
-AC buys BTC (sells USD) on domestic BTC exchange. AC sells BTC (buys EUR) on foreign BTC exchange. AC SEPA credits your Bank of Cyprus account.
-“Using the blockchain” = using BTC as a “vehicle currency.”“free”
+### Bitcoin as digital gold
+Like gold, supply of bitcoin not subject to government manipulation.  Though government can still tax and legislate.  Compliance is an issue (it always is).  Without hassle of storing, assaying, transporting physical gold.  Highly volatile, but may nevertheless be preferable to mismanaged monetary systems?
+
+
+## Downsides
+
+* Highly volatile exchange rate (e.g., against unit of account).
+* inelastic money supply makes it a lousy money.
+* While users costs are (presently) low, total costs (miner compensation) range between 2-4% of transaction volume.
+
+* Most of this cost is financed through seigniorage revenue.  Since BTC supply will cease to grow, user fees will have to replace seigniorage.  Not entirely clear where this cost will settle.
+
+## Statistics
+
+* BTC in circulation 14M = $3B (compare USD, $1.3T).
+* 75 transactions/min (compare Visa, 200,000/min).
+* (Ironically) Most are intermediated via Coinbase, Bitpay, etc.
+
+## Bitcoin and banking
+
+Bitcoin solves a payment problem, not a credit problem. Credit supported by reputation, collateral.  Banks turn illiquid assets (reputation, collateral) into money. Demandable liabilities, redeemable for base money @ par.
+
+Base money = historically specie, today fiat currency.  Fractional reserve banking (liquidity transformation).  What prevents banks from issuing demandable liabilities redeemable in BTC (or any other object)?
 ￼
-•
-Bitcoin as digital gold
-Like gold, supply of bitcoin not subject to government manipulation.
+During U.S. “free” banking era 1836-63, thousands of private state-chartered banks issuing their own banknotes redeemable on demand for specie.  Private clearinghouses (e.g., Suffolk Bank 1818-58), then national banking era 1863-1913.
 
-Though government can still tax and legislate. 
-Compliance is an issue (it always is).
-W/o hassle of storing, assaying, transporting physical gold.
-Highly volatile, but may nevertheless be preferable to mismanaged monetary systems?
-
-•
+National banknotes redeemable for specie on demand. State banknotes replaced by checking accounts.  No central bank, no lender-of-last resort.
 ￼
-Inflation rates, selected countries
-
-Downsides
-
-Highly volatile exchange rate (e.g., against unit of account).
-
-Though, not such a big deal if BTC became the unit of account. 
-But inelastic money supply makes it a lousy money.
-
-While users costs are (presently) low, total costs (miner compensation) range between 2-4% of transaction volume.
-
-Most of this cost is financed through seigniorage revenue.
-
-Since BTC supply will cease to grow, user fees will have to
-replace seigniorage.
-
-Not entirely clear where this cost will settle.
-￼
-Bitcoin market price
-
-Bitcoin miner
-
-Statistics
-
-BTC in circulation 14M = $3B (compare USD, $1.3T).
-￼
-Statistics
-
-BTC in circulation 14M = $3B (compare USD, $1.3T).
-
-75 transactions/min (compare Visa, 200,000/min).
-￼
-Statistics
-
-BTC in circulation 14M = $3B (compare USD, $1.3T).
-
-75 transactions/min (compare Visa, 200,000/min).
-
-Statistics
-
-BTC in circulation 14M = $3B (compare USD, $1.3T).
-
-75 transactions/min (compare Visa, 200,000/min).
-
-(Ironically) Most are intermediated via Coinbase, Bitpay, etc.
-
-Bitcoin and banking
-
-Bitcoin solves a payment problem, not a credit problem. 
-Credit supported by reputation, collateral.
-
-Banks turn illiquid assets (reputation, collateral) into money. 
-Demandable liabilities, redeemable for base money @ par.
-
-Base money = historically specie, today fiat currency.
-
-Fractional reserve banking (liquidity transformation).
-
-What prevents banks from issuing demandable liabilities redeemable in BTC (or any other object)?
-￼
-Bitcoin and banking
-
-U.S. “free” banking era 1836-63.
-
-Thousands of private state-chartered banks issuing their own banknotes redeemable on demand for specie.
-
-Private clearinghouses (e.g., Suffolk Bank 1818-58).
-
-National banking era 1863-1913.
-
-National banknotes redeemable for specie on demand. 
-State banknotes replaced by checking accounts.
-
-No central bank, no lender-of-last resort.
-￼
-Bitcoin vs. Fedcoin
+## Bitcoin vs. Fedcoin
 
 Existing banking system largely based on pre-Internet tech.
 
