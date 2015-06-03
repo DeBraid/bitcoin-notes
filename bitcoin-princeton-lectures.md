@@ -179,3 +179,66 @@ Credit side of banking (liquidity transformation) in regulated and shadow bankin
 
 
 [1]: https://mediacentral.princeton.edu/media/BENDHEIM+Lecture+5-1-15/1_7c94ne0g?utm_source=BitFlash+Subscribers&utm_campaign=407887e6de-BitFlash+Weekly+Review+%286.1.15%29&utm_medium=email&utm_term=0_ad02b6b1a8-407887e6de-181828737
+
+
+************************
+
+# Bill Janeway
+
+Old school, no slides (as far as I can tell). **Update: 1 Slide!  Love it**
+
+## Bitcoin / Blockchain issues 
+
+* Anarcho-Libertarian rebellion vs. Regulatory compliance 
+* Apps vs Infrastr.
+* Money: Means of payment vs. store of value vs. unit of account 
+* Volatility vs Liquidity
+* Retail vs Wholesale
+* Infrastructure: protocol vs implementation
+* Alternative Protocols v. Alt Implementations
+* Anonymous Mining Guilds v. Private Blockchain(s) v. Utility Blockchain(s) 
+
+He and his firm (ref) are not currently invested, but very interested bitcoin observers.
+
+Bitcoin is an app running on infrastructure implement to run a protocol.  It's a money-ish app.  Bitcoin is unique among protocols in that it can be both BOUGHT and USED.  In the early days people didn't use bitcoin, they mostly purchased it on spec.  Perhaps that's still the case in 2015 (7 years after the first 50 btc were mined on the genesis block).
+
+## Volatilty hurts utility as currency 
+
+Bitcoin need more liquidity, a function of usage, which is dependent on regulatory acceptance.  Liquidity enables the moneyness of the asset.  Progress being made, but it's an issue.
+
+> Liquidity requires regulatory compliance.
+
+## Recent breakthrough
+
+Coinbase has secured an investment in the New York Stock Exchange, to create a US-based, regulated exchange. (Tone indicates this could be a watershed event, and many US investors would take note).  This could lead to the desirable boosts in liquidity, also reputation boost.  A good step forward.
+
+Small 'b' *bitcoin* is just an app.  There could be numerous other similar apps.  Ecosystems of compliance and regulation, culture and political capital. 
+
+The taxi industries are unique to a given jurisdiction (SF vs London vs Toronto etc).
+
+### Retail apps 
+
+will experience friction from the establishment.  ie.  When you sell your house for bitcoin, the idiot town clerk will be stumped when you present the blockchain to verifiy the transaction. 
+
+### Wholesale apps
+
+Consenting adults can address a pain point in their business.  Blythe Masters and Co are setting up a blockchain for syndicated loans.  Currently it take 27 days, in which a bank incurs real capital costs, for all the admin to get done. 
+
+Skepticism around mining guilds.  Could they fork the blockchain.  Hints at some unwritten rules.  Avoids the obvious retort to 51% attack: you immediately devalue that which you're attempting to steal.  (Has Bill Janeway ever used git?)
+
+Warburg see openness around how the implementation works. 
+
+> More rapid penetration will take place in less developed, less-government, more open jurisdictions (more frictionless environments).
+
+## Infrastructure 
+
+Alt coins, like Ripple, are alt distributed trust systems (in the case of Ripple, presented as more bank friendly).
+
+> Don't think that there will be one bitcoin -- or block chain -- to rule them all.
+
+It can be emulated through alt protcols and implenet through alt infra.
+
+Closes with image of masked man behind bitcoin hardware company.  Valery Nebesny, of Georgia, the headquarters of BitFury.
+
+> I think we have a ways to go in this new phenomenal capability.   
+
