@@ -1,6 +1,11 @@
-## by [@Royal_Arse][1]
+# Bitcoin Notes
+### by Derek Braid aka [@Royal_Arse][1]
 
-Some detailed notes on bitcoin below.  For a good intro, watch [this video][4].
+I have taken notes from several high profile talks and presentation from world leaders in Bitcoin space.  The goal is to educate the world on the greatest innocation in financial services in decades (ever?).
+
+Please support with tips at 1NzfzJWcjFEhu9Ei1qBHA7TGE2TyzcHWbv -- thank you!
+
+Some detailed notes on bitcoin video series by yours truly below.  For a good general bitcoin intro, watch [this video][4].
 
 -----------------
 Part One: Bitcoin for Intelligent Investors
