@@ -19,4 +19,12 @@ Banking for machines: each entity or device can now have a bitcoin wallet.  Mind
 
 Bitcoin is growing fast, w/ 4-sided network effects.  
 
+## Blockchain without Bitcoin
+
+Is misguided.  Bitcoin provides a valuable incentive to mine the blockchain.  Without a valuable token as reward, the miners will contribute their CPU elsewhere.  Chicken and Egg, bitcoin appears to have already won.
+
+> The concept of blockchain is not likely separable from bitcoin.
+
+There could be alt or coloured coins, but their survival will be dependent on the perceived value of reward token.  
+
 [1]: www.goldmansachs.com/our-thinking/talks-at-gs/evolution-of-bitcoin.html
