@@ -5,6 +5,8 @@ Bitcoin is payments as packets.  Not paper-based money, packet-based money. A na
 
 Bitcoin as a protocol is why we compare its potential scale to the internet in terms of its impact.
 
+Bitcoin isn't the USD, but it could be the reserve currency for the Internet.  There is no yet-undiscovered killer app, its called bitcoin and is 6 years old. 
+
 Bitcoin is a programmable unified way of transferring value, beyond currency but keys to locks, contracts and financial securities. 
 
 Before btc, telco's intermediated sending/receiving packets.  Barriers to entry for information transfer were/are very high.  Bitcoin removes those barriers by enabling peer to peer.
