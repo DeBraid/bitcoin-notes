@@ -2,7 +2,14 @@
 
 Notes from talk by Balaji Srinivasan at Kholsa Ventures event https://www.youtube.com/watch?t=26&v=JIxwTx7o_B4
 
+
+## Why do we believe that bitcoin may be the most important tech of next decade?
+
 What is bitcoin? Why are we (at 21 and Andressen Horowitz) comparing its scale to the internet? 
+
+Balaji references this [clip, "What is internet anyway"][clip] with Bryant Gumble et al on USA today from 1994.  What we don't know we can't understand.  Early in bitcoin lifecycle (same can still be said for Internet).
+
+## Overview
 
 1.  Btc is a protocol
 2.  Here to stay (recently as 2 years ago much less certain it would survive)
@@ -54,3 +61,4 @@ Bitcoin is a protocol.  Payment are not packets.  Decentralized the centralized 
 
 Bitcoin is open source, it is to Paypal what Linux is to Windows.  Powerful 4-way network effect between miners, developers, merchants and users. 
 
+[clip]: https://www.youtube.com/watch?v=UlJku_CSyNg
