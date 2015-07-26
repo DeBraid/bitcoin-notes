@@ -1,9 +1,6 @@
-# Bitcoin may be the most important technology of the next decade.
+# Bitcoin: the most important technology of the next decade.
 
 Notes from talk by Balaji Srinivasan at Kholsa Ventures event https://www.youtube.com/watch?t=26&v=JIxwTx7o_B4
-
-
-## Why do we believe that bitcoin may be the most important tech of next decade?
 
 What is bitcoin? Why are we (at 21 and Andressen Horowitz) comparing its scale to the internet? 
 
