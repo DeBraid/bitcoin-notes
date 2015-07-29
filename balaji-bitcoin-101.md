@@ -54,7 +54,7 @@ This will curtail the forced selling.  Bids will find reduced liquidity on the a
 
 ## Summary: 
 
-Bitcoin is a protocol.  Payment are not packets.  Decentralized the centralized agent (like banks).  Here to stay (large reputable private and public institutions are making investments).  Bigger than Google. 
+Bitcoin is a protocol, payments are packets.  Decentralized the centralized agent (like banks).  Here to stay (large reputable private and public institutions are making investments).  Bigger than Google. 
 
 Bitcoin is open source, it is to Paypal what Linux is to Windows.  Powerful 4-way network effect between miners, developers, merchants and users. 
 
