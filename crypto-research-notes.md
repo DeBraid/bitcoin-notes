@@ -1,4 +1,9 @@
-# Random Notes on Crypto 
+# Random Notes on Ethereum and History of Crypto. 
+
+Links: 
+
+* On-Chain transaction growing steady for [Ethereum](https://twitter.com/ofnumbers/status/711620882578350080) 
+* 
 
 ## Ethereum: customized, user-created blockchains
 
