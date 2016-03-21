@@ -43,7 +43,13 @@ From Gavin Wood on guarantees that Ethereum makes.  When code is executed on the
 
 ## Innovation Commons
 
-Compared to the walled garden that is a server, E is a common platform.  Servers are cumbersome and make interoperability difficult.  Creates privacy, security, and authenticity issues. 
+
+
+Compared to the walled garden that is a server, E is an open, common platform.
+
+> Ethereum is worlds first decentralized computer.   
+
+Servers, by contrast, are cumbersome and make interoperability difficult.  They create privacy, security, and authenticity issues.
 
 
 # History of Cryptography
