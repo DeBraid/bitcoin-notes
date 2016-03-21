@@ -3,7 +3,7 @@
 Links: 
 
 * On-Chain transaction growing steady for [Ethereum](https://twitter.com/ofnumbers/status/711620882578350080) 
-* 
+* Ethereum for Dummies - lecture by Dr. Gavin Wood [at DEVCON1 via YouTube][2] .
 
 ## Ethereum: customized, user-created blockchains
 
@@ -19,7 +19,34 @@ Broad categories of such alternative blockchain applications include:
 
 These contracts encode arbitrary state transition functions, allowing *users to create* any of the systems listed above, and others not yet imagined, simply by writing the business logic in a few lines of code.
 
-## History
+## Ethereum Guarantees 
+
+All of the messages in our computer have some origin.  They can be checked to see WHO sent the message.
+
+Currently, there is no other object-oriented message execution environment where you can *always* check and verify who sent the message.  Moreover, this message is permanent!
+
+From Gavin Wood on guarantees that Ethereum makes.  When code is executed on the computer that is Ethereum, you get the following:
+
+* Atomicity
+	* all or nothing operation.  The whole program runs or nothing runs.
+* Synchrony
+	* no 2 operations can interfere with one another
+* Provenance
+	* all messages can be inspected to verify them
+* Permenence
+	* there is no OFF mode.  All the objects will exist forever.
+* Immortality 
+	* object can never be externally deleted.  Can only voluntarily commit suicide.
+* Immutable 
+	* the code that executes cannot change.
+
+
+## Innovation Commons
+
+Compared to the walled garden that is a server, E is a common platform.  Servers are cumbersome and make interoperability difficult.  Creates privacy, security, and authenticity issues. 
+
+
+# History of Cryptography
 
 #### 1970s
 
@@ -42,3 +69,4 @@ In 2005 Hal Finney introduced RPOWs, 'reusable proofs-of-work' which combined el
 In 2009, Satoshi Nakamoto successfully created and built a public-key cryptography 
 
 [1]: https://github.com/ethereum/wiki/wiki/White-Paper
+[2]: https://www.youtube.com/watch?v=U_LK0t_qaPo&list=LL6rYoXJ_3BbPyWx_GQDDRRQ&index=4&ab_channel=Ethereum
