@@ -1,9 +1,11 @@
 # Bitcoin Notes
 ### by Derek Braid aka [@Royal_Arse][1]
 
+
+
 I have taken notes from several high profile talks and presentation from world leaders in Bitcoin space.  The goal is to educate the world on the greatest innovation in financial services in decades (ever?).
 
-Please support with tips at 1NzfzJWcjFEhu9Ei1qBHA7TGE2TyzcHWbv -- thank you!  For a solid general bitcoin intro watch [this video][4].  Join the Burlington Bitcoin [meetup group][6].
+Please support with tips [via Coinkite][7] or at 1NzfzJWcjFEhu9Ei1qBHA7TGE2TyzcHWbv -- thank you!  For a solid general bitcoin intro watch [this video][4].  Join the Burlington Bitcoin [meetup group][6].
 
 -----------------
 Part One: Bitcoin for Intelligent Investors
@@ -31,3 +33,4 @@ Sidechain units of account are do NOT depend on intrinsic valuation.  Rather, th
 [4]: https://www.youtube.com/watch?v=l9jOJk30eQs
 [5]: https://github.com/DeBraid/bitcoin-notes/blob/master/sidechains.md
 [6]: http://www.meetup.com/Burlington-Bitcoin/
+[7]: https://coinkite.com/u/Burlington_Bitcoin/send?cct=BTC
