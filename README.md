@@ -5,7 +5,7 @@
 
 I have taken notes from several high profile talks and presentation from world leaders in Bitcoin space.  The goal is to educate the world on the greatest innovation in financial services in decades (ever?).
 
-Please support with tips [via Coinkite][7] or at 1NzfzJWcjFEhu9Ei1qBHA7TGE2TyzcHWbv -- thank you!  For a solid general bitcoin intro watch [this video][4].  Join the Burlington Bitcoin [meetup group][6].
+Please send tips to 1HFCAbvqTYK2ZGzonNBz2xN5q46qPj8FLd -- thank you!  For a solid general bitcoin intro watch [this video][4].  Join the Burlington Bitcoin [meetup group][6].
 
 -----------------
 Part One: Bitcoin for Intelligent Investors
