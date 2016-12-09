@@ -1,5 +1,7 @@
 # Mimblewimble: Private, Massively-Prunable Blockchains 
 
+Preserved bitcoins security model, without having to keep as much data lying around. 
+
 ## Links 
 Talk: https://www.youtube.com/watch?v=aHTRlbCaUyM
 Repo: https://github.com/ignopeverell/grin
