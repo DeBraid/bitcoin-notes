@@ -44,7 +44,7 @@ Abuse of user attention and permanent loss of users, via ad-slot blindness and a
 
 ### 3.1 Basic Attention Metrics (BAM)
 
-
+Brave (a web browser) is a new platform, and BAT (a token for decentralized ) is a new unit of exchange.   Attention is measured as viewed for content and ads only in the browser’s active tab in real time.
 
 
 ### Stats
