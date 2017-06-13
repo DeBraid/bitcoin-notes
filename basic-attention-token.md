@@ -58,6 +58,22 @@ So the browser will track purchase history to optimize ads?
 
 Brave will keep data -- encrypted and anon -- on the device.
 
+> not only does their data hold value, it holds substantial value that has been ignored and exploited by the middlemen year after year in the current industry model. 
+
+### Devil in the Details: How do we score attention?
+
+Use `n` total view for at least `n` seconds, and calculate average over `t` time.   For example, let `n = 5`, `t=30d`.
+
+> 5 total views of advertising content in an active window, for at least 5 seconds each, on a 30-day average 
+
+> Another suggested metric is the _concave_ score[18]. This is a score which rewards a publisher for a thresholded and bounded function of the amount of time spent with the open and active page. 
+
+### What is concave score? 
+
+For example: 
+* `1pt` for `2s` pageview, `2pt` for `30s`, and `3pts` for `60s` (with diminishing or bounded returns for longer views.)
+
+
 
 #################################################
 ### Stats
