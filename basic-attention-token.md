@@ -70,8 +70,15 @@ Use `n` total view for at least `n` seconds, and calculate average over `t` time
 
 ### What is concave score? 
 
-For example: 
 * `1pt` for `2s` pageview, `2pt` for `30s`, and `3pts` for `60s` (with diminishing or bounded returns for longer views.)
+
+## 3.2 Token Technology
+
+The Basic Attention Token (BAT), a token based on Ethereum, is an important element
+of a new marketplace.  Ethereum is a distributed virtual machine that allows users to construct smart contracts for transactions.
+
+> Micropayments using BAT will be accomplished for the first stage deployment with the Brave Micropayments Ledger. Each viewed ad will be verified at the browser using the BAM. 
+
 
 
 
