@@ -46,7 +46,20 @@ Abuse of user attention and permanent loss of users, via ad-slot blindness and a
 
 Brave (a web browser) is a new platform, and BAT (a token for decentralized ) is a new unit of exchange.   Attention is measured as viewed for content and ads only in the browser’s active tab in real time.
 
+> In-device machine learning (ML) will match truly relevant ads to content from a level that middlemen with cookies and third party tracking are unable to achieve, regardless of how much of the user data is extracted and monitored from external models. 
 
+Browser-based tracking + ML will outperform current tracking. How?
+
+> These external models are still unable to track transactions well enough not to serve ads for products users have often already purchased. 
+
+So the browser will track purchase history to optimize ads?
+
+> By keeping the data on the device only, encrypting the data and shielding the identities of our users as a core principle, BAT forms a bond with users 
+
+Brave will keep data -- encrypted and anon -- on the device.
+
+
+#################################################
 ### Stats
 * up to 79% of mobile data transferred during visits to popular publishers was a result of ads
 * Mobile advertising adds ~$23/month in data charges to average phone data plan while reducing battery life by 21%.
