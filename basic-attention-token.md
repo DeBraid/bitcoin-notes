@@ -80,8 +80,6 @@ of a new marketplace.  Ethereum is a distributed virtual machine that allows use
 > Micropayments using BAT will be accomplished for the first stage deployment with the Brave Micropayments Ledger. Each viewed ad will be verified at the browser using the BAM. 
 
 
-
-
 #################################################
 ### Stats
 * up to 79% of mobile data transferred during visits to popular publishers was a result of ads
