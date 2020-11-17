@@ -4,3 +4,8 @@ https://www.youtube.com/watch?v=3x1b_S6Qp2Q&ab_channel=LexFridman
 
 30:02 - Blockchain and cryptocurrency basics
 https://www.youtube.com/watch?v=3x1b_S6Qp2Q&t=1802s
+
+
+> A Prehistory of the Ethereum Protocol
+
+https://vitalik.ca/general/2017/09/14/prehistory.html
